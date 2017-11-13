@@ -1,0 +1,19 @@
+{
+  "name": "nifcloud/nifcloud-sdk-php",
+  "homepage": "https://pfs.nifcloud.com/",
+  "description": "NIFCLOUD SDK for PHP",
+  "type": "library",
+  "license": "Apache-2.0",
+  "authors": [
+      {
+          "name": "somathor"
+      }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "": ""
+    }
+  }
+}
